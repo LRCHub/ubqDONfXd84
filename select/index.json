@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "I'm always here",
+  "base_artist": "MIZUKA",
+  "createdAt": "2025-12-02T06:55:32.705619Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I'm Always Here (Theme from \"Baywatch\")",
+      "artist": "Jimi Jamison",
+      "has_synced": true,
+      "path": "select/01_I'm_Always_Here_(Theme_from__Baywatch_)_Jimi_Jamison.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I'm Always Here",
+      "artist": "Jim Jamison",
+      "has_synced": true,
+      "path": "select/02_I'm_Always_Here_Jim_Jamison.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I'm Always Here",
+      "artist": "Jimi Jamison",
+      "has_synced": true,
+      "path": "select/03_I'm_Always_Here_Jimi_Jamison.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I'm Always Here",
+      "artist": "Jim Jamison",
+      "has_synced": true,
+      "path": "select/04_I'm_Always_Here_Jim_Jamison.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I'm Always Here",
+      "artist": "sign crushes motorist",
+      "has_synced": true,
+      "path": "select/05_I'm_Always_Here_sign_crushes_motorist.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I'm Always Here (feat. Pit Bailey)",
+      "artist": "Andrew Spencer",
+      "has_synced": false,
+      "path": "select/06_I'm_Always_Here_(feat._Pit_Bailey)_Andrew_Spencer.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "I'm Always Here",
+      "artist": "Andrew Spencer/Pit Bailey",
+      "has_synced": false,
+      "path": "select/07_I'm_Always_Here_Andrew_Spencer_Pit_Bailey.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I'm Always Here",
+      "artist": "Jimi Jamison",
+      "has_synced": true,
+      "path": "select/08_I'm_Always_Here_Jimi_Jamison.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I'm Always Here",
+      "artist": "R.A.",
+      "has_synced": true,
+      "path": "select/09_I'm_Always_Here_R.A..lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "jim jamison - i'm always here (the original baywatch theme song) (baywatch - the 10 years of baywatch)",
+      "artist": "i'm always here (the original baywatch theme song)",
+      "has_synced": true,
+      "path": "select/10_jim_jamison_-_i'm_always_here_(the_original_baywatch_theme_song)_(baywatch_-_the_i'm_always_here_(the_original_baywatch_theme_song).lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "I'm Always Here (Baywatch Theme)",
+      "artist": "Andrew Spencer feat. Pit Bailay",
+      "has_synced": false,
+      "path": "select/11_I'm_Always_Here_(Baywatch_Theme)_Andrew_Spencer_feat._Pit_Bailay.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Kiss Me Baby, I'm Always Here For You",
+      "artist": "Mike Park",
+      "has_synced": false,
+      "path": "select/12_Kiss_Me_Baby,_I'm_Always_Here_For_You_Mike_Park.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "I'm always here",
+      "artist": "MIZUKA",
+      "has_synced": false,
+      "path": "select/pl_01_I'm_always_here_MIZUKA.txt"
+    }
+  ]
+}
